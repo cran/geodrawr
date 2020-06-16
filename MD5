@@ -1,0 +1,10 @@
+3b6d48c1f8f60ffbb4bcabf3c0500655 *DESCRIPTION
+0dcb77ca69e996751458b396c2ea4d26 *NAMESPACE
+c85da08afba1c899b1b5aab4327ef9b6 *R/draw_lines.R
+4addba6cd816f5878d582540c2077be9 *R/draw_points.R
+3ab5f6f06176e28d4c5d57e4d117fd36 *R/draw_polygons.R
+bd5b72e762ea669ce82f8c044135712b *R/imports.R
+0d36434b6877508f44900afe703dd1e4 *README.md
+f627f188775b38e7d0e1da8b9975a2b0 *man/draw_lines.Rd
+abf85be49cbb294ef41936adb5f06455 *man/draw_points.Rd
+3d78af98628d4c45dfaab76c427680d0 *man/draw_polygons.Rd
