@@ -1,6 +1,6 @@
 Package: geodrawr
 Title: Making Geospatial Objects
-Version: 1.0.1
+Version: 2.0.0
 Authors@R: 
     person(given = "Heoncheol",
            family = "Ha",
@@ -20,8 +20,8 @@ BugReports: https://github.com/Curycu/geodrawr/issues
 Imports: sf (>= 0.9-0), leaflet (>= 2.0.0), shiny (>= 1.4.0),
         shinydashboard (>= 0.7.0)
 NeedsCompilation: no
-Packaged: 2020-06-10 11:18:42 UTC; cury
+Packaged: 2020-11-08 16:51:21 UTC; kai.hana
 Author: Heoncheol Ha [aut, cre] (<https://orcid.org/0000-0001-7095-3841>)
 Maintainer: Heoncheol Ha <hancury@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-06-16 11:20:02 UTC
+Date/Publication: 2020-11-08 17:10:02 UTC

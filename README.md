@@ -1,5 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+[![](http://cranlogs.r-pkg.org/badges/grand-total/geodrawr)](https://CRAN.R-project.org/package=geodrawr)
 
 # geodrawr
 
@@ -7,12 +8,19 @@ An interactive tool for making geo-spatial objects by clicks on the map
 
 ## Installation
 
-You can install the released version from [GitHub](https://github.com/)
-with:
+To install the stable version from CRAN, simply run the following from
+an R console:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("Curycu/geodrawr")
+install.packages('geodrawr')
+```
+
+To install the latest development builds directly from GitHub, run this
+instead:
+
+``` r
+if (!require('devtools')) install.packages('devtools')
+devtools::install_github('Curycu/geodrawr')
 ```
 
 ## How to Use?
